@@ -1,2 +1,2 @@
 # Lab1 Digital
- Proyecto summary
+ Jueego de cerreras con PIC16F887 programado en C
