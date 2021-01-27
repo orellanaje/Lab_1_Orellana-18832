@@ -1,2 +1,2 @@
-# GIT_PCbS
+# Lab1 Digital
  Proyecto summary
